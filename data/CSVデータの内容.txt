@@ -1,0 +1,3 @@
+transformed_player_points.txt：選手の上面図上の座標
+frame_num,id,team_color,x,y,direction
+フレーム番号、ID、チームカラー(redが右側のコート選手)、x,y（0から1に正規化済み）、ゴール物体の方向
