@@ -1,0 +1,18 @@
+# ============================
+# Python / ML / Project Ignore
+# ============================
+
+# 除外ディレクトリ
+third_party/
+.venv/
+models/
+data/
+
+# 追加で一般的なPython生成物を除外
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+.mypy_cache/
+.pytest_cache/
+
