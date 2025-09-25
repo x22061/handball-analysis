@@ -1,3 +1,8 @@
+'''
+映像を112x112のRGBフレームに分解して保存するスクリプト
+C3Dの入力に合わせてリサイズとパディングを行う
+'''
+
 import os
 import cv2
 import numpy as np
